@@ -1,0 +1,5 @@
+rootProject.name = 'groovy-study'
+include 'groovy-model'
+include 'groovy-repository'
+include 'groovy-web'
+

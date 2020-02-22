@@ -1,0 +1,11 @@
+group 'com.yicj.study'
+version '1.0-SNAPSHOT'
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project(":groovy-model")
+}

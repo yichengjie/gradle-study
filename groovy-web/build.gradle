@@ -1,0 +1,7 @@
+group 'com.yicj.study'
+version '1.0-SNAPSHOT'
+
+
+dependencies {
+    compile project(":groovy-repository")
+}
