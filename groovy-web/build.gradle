@@ -1,6 +1,4 @@
-group 'com.yicj.study'
-version '1.0-SNAPSHOT'
-
+apply plugin: 'war'
 
 dependencies {
     compile project(":groovy-repository")
