@@ -1,3 +1,5 @@
+注意事项：本例使用gradle 3.5.1版本
+
 将每个项目中的group和version提取到公用的配置中
 1.新建gradle.properties文件
 2.将每个项目中的group和version配置删除
